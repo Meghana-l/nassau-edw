@@ -1,4 +1,4 @@
-# Nassau Financial Group — EDW Data Quality & Actuarial Reporting Dashboard
+# EDW Data Quality & Actuarial Reporting Dashboard
 
 A portfolio project demonstrating enterprise data management skills for the Actuarial Data Management Analyst role.
 
