@@ -2,6 +2,8 @@
 
 A production-style web application simulating an Enterprise Data Warehouse workflow for insurance actuarial data management. The project covers the full lifecycle of insurance policy data — from platform ingestion through quality validation to executive reporting.
 
+Live Web - https://nassau-5gcbf7dz5-meghanalnswamydr-5532s-projects.vercel.app/
+
 ## Overview
 
 Insurance companies receive policy data from multiple source platforms simultaneously. Before that data can be used for reserve calculations, lapse rate modeling, or regulatory reporting, it needs to be ingested, validated, and stored in a standardized format. This application simulates that end-to-end process across a portfolio of 120 synthetic insurance policies spanning life, annuity, Medicare Supplement, and Accident & Health product lines.
